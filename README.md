@@ -1,6 +1,6 @@
 # event-calc
 
-# setup
+### setup
 
 * install docker
   * [Windows](https://docs.docker.com/docker-for-windows/install/)
