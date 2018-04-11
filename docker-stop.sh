@@ -1,3 +1,4 @@
 #!/bin/bash
 
-docker exec -it event-cal /usr/local/bin/php bin/console
+docker stop event-cal
+docker rm event-cal
